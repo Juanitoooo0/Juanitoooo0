@@ -59,17 +59,16 @@ Soy estudiante de septimo dsemestre de ingieneria de software y estoy cursando u
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
-<a target="_blank" href="https://www.instagram.com/TU_USUARIO/">
+<a target="_blank" href="https://wa.me/573142724807">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
+</a>
+
+<a target="_blank" href="https://www.instagram.com/_juanitooo20/">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-<a target="_blank" href="https://www.facebook.com/TU_USUARIO">
+<a target="_blank" href="https://www.facebook.com/juandavid.lunarueda">
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
-</a>
-
-<a target="_blank" href="https://wa.me/TU_NUMERO_CON_CODIGO_PAIS">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
-</a>
 <br>
 </p>
 
