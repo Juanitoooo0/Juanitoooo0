@@ -5,7 +5,7 @@ Soy estudiante de septimo dsemestre de ingieneria de software y estoy cursando u
 
 - ⚡Me apaciona la programacion y las ganas de aprender y superarme cada dia.
 - 🔭 soy una persona muy curiosa, me gusta aprender nuevas cosas.
-- 💬 me caracterizo por mi alegri y mi actitud positiva.
+- 💬 me caracterizo por mi alegria y mi actitud positiva.
 
 ## Mis habilidades incluyen:
 
@@ -44,7 +44,7 @@ Soy estudiante de septimo dsemestre de ingieneria de software y estoy cursando u
 
 ## Contactame!
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/juan-david-luna-luna-rueda-514730320/">
