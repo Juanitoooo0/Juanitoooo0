@@ -47,7 +47,7 @@ Soy estudiante de septimo dsemestre de ingieneria de software y estoy cursando u
    
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/juan-david-luna-luna-rueda-514730320/">
+<a target="_blank" href="https://www.linkedin.com/in/Juan-David-Luna-514730320/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 
