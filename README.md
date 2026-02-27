@@ -55,7 +55,7 @@ Soy estudiante de septimo dsemestre de ingieneria de software y estoy cursando u
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a target="_blank" href="mailto:tu_correo@gmail.com">
+<a target="_blank" href="mailto:judaluru@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
